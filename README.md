@@ -12,7 +12,7 @@
 
 ### Bright Data
 
-[Bright Data](https://get.brightdata.com/wkdqq5chsg3h) 算是企业级采集的标杆了。它覆盖住宅、移动、数据中心、ISP四种网络类型，IP池规模全球领先。工具也很全：有专门处理复杂页面的Web Unlocker，还有数据集市场、网页抓取API、Web MCP服务、搜索引擎爬虫SERP等等。合规方面符合GDPR、CCPA和SEC这些法规，还专门设了隐私中心。个人用户和企业用户都适合，可以作为首选。
+Bright Data 算是企业级采集的标杆了。它覆盖住宅、移动、数据中心、ISP四种网络类型，IP池规模全球领先。工具也很全：有专门处理复杂页面的Web Unlocker，还有数据集市场、网页抓取API、Web MCP服务、搜索引擎爬虫SERP等等。合规方面符合GDPR、CCPA和SEC这些法规，还专门设了隐私中心。个人用户和企业用户都适合，可以作为首选。
 
 
 
@@ -110,7 +110,7 @@ Bright Data对新用户很友好，注册就送2美元额度，可以体验任�
 
 **新用户免费额度**
 
-注册[Bright Data官方账号](https://get.brightdata.com/wkdqq5chsg3h)后，登录控制面板，在支付菜单就能看到平台赠送的免费额度。
+注册Bright Data官方账号后，登录控制面板，在支付菜单就能看到平台赠送的免费额度。
 
 
 
@@ -234,7 +234,7 @@ ThorData提供常见的住宅/移动/ISP/数据中心代理，SERP API可以爬�
 
 选AI数据采集代理，关键是明确采集目标、遵守合规性要求，结合代理的技术能力、可扩展性和稳定性来做决定。
 
-对于大规模、长期采集任务，**[Bright Data](https://get.brightdata.com/wkdqq5chsg3h)** 和 **Oxylabs** 这样的高端服务商提供了强大的技术支持和全球合规保障，适合需要高并发和高成功率的企业级应用。
+对于大规模、长期采集任务，**Bright Data* 和 **Oxylabs** 这样的高端服务商提供了强大的技术支持和全球合规保障，适合需要高并发和高成功率的企业级应用。
 
 如果预算有限，**Proxyrack、Proxy-Cheap 和 Shifter** 这些提供了更具性价比的选择，满足中小规模数据抓取的需求。
 
